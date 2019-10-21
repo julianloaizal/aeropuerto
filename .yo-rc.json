@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "co.udea"
+    },
+    "jhipsterVersion": "6.4.1",
+    "applicationType": "monolith",
+    "baseName": "aeropuerto",
+    "packageName": "co.udea",
+    "packageFolder": "co/udea",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ODRkZmNiMGI2ZTM0MDM5OTdkYTM1OTdiZTM5MzY3NjFlZDQ4ZTI3NjIxZjRjYTE1MmNjYjNmZDE4MDVhOGUxYWVmOTUyMDFhNWY0NTc0Nzk1NjY3MTdmYzdkZTk0ZjUyN2MyZmQxZWY3NWMxOWI1NzI5NTE4M2U2OGM4ZTJkN2E=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
